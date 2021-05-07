@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "net.azurestaticapps.white_stone_03cdce110.twa",
+               "sha256_cert_fingerprints": ["00:03:F2:4F:71:3F:14:E2:A2:1C:C6:65:9F:C9:0F:E3:1E:3C:33:4F:45:02:E2:5D:A9:89:82:38:1F:74:28:20"] }
+}]
